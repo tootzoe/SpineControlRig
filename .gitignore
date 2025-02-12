@@ -1,7 +1,7 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-
+Content/CloudPackVDB/
 
 # qt pro
 *.pro.user
